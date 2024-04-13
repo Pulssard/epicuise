@@ -1,0 +1,5 @@
+node_modules
+.dist
+parcel_cache
+.prettierrc
+.env
