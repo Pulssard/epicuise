@@ -21,8 +21,7 @@ Epicuise is a web application that allows users to search for recipes, view reci
 
 ## Demo
 
-epicuise.netlify.com
-
+https://epicuise.netlify.app/
 ## Installation
 
 To run Forkify locally, follow these steps:
