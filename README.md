@@ -52,7 +52,7 @@ To use the Food2Fork API, you will need to sign up for an API key (https://forki
 ## Project Background
 
 This project was originally created as final project, part of the [The Complete JavaScript Course 2024: From Zero to Expert!
-] course by [Jonas Schmedtmann]. It served as a learning exercise to implement various concepts and technologies taught throughout the course such as OOP(Classes, prototypal inheritance), asynchronious JS(promises, async/await, DOM Manipulation, Observer API, etc).
+] course by [Jonas Schmedtmann]. It served as a learning exercise to implement various concepts and technologies taught throughout the course such as OOP(Classes, prototypal inheritance), asynchronious JS(promises, async/await, fetch API), DOM Manipulation, Observer API, etc.
 
 ## Modifications
 
